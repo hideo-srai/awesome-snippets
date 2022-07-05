@@ -1,0 +1,1331 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button renders examples: lg 1`] = `
+Array [
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button"
+    data-test-id="Example-Button-Default"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      Hi Dan
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <hr
+    className="tdd-Divider--divider"
+  />,
+  <div
+    className="tdd-Example--checkeredContainer"
+  >
+    <button
+      className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedSecondary tdd-MuiButton-raised tdd-MuiButton-raisedSecondary tdd-Button--button tdd-Button--secondary"
+      disabled={false}
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex="0"
+      type="button"
+    >
+      <span
+        className="tdd-MuiButton-label"
+      >
+        Hi Dan
+      </span>
+      <span
+        className="tdd-MuiTouchRipple-root"
+      />
+    </button>
+  </div>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedSecondary tdd-MuiButton-raised tdd-MuiButton-raisedSecondary tdd-Button--button tdd-Button--secondary"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="fas fa-star tdd-Button--icon"
+      />
+      Hi Icon Button
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedSecondary tdd-MuiButton-raised tdd-MuiButton-raisedSecondary tdd-Button--button tdd-Button--secondary"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="fas fa-headphones"
+      />
+      Hi Icon Button 2
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedSecondary tdd-MuiButton-raised tdd-MuiButton-raisedSecondary tdd-Button--button tdd-Button--secondary"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="fab fa-red-river"
+      />
+      Hi Icon Button 3
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-textPrimary tdd-MuiButton-flat tdd-MuiButton-flatPrimary tdd-Button--button tdd-Button--link"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="fas fa-user-circle tdd-Button--icon"
+      />
+      Click Me
+    </span>
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--blank"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="far fa-edit"
+      />
+    </span>
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--blank"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      Some Text
+    </span>
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button tdd-Button--linkBlack"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      Some Text
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButtonBase-disabled tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-MuiButton-disabled tdd-Button--button tdd-Button--linkBlack"
+    disabled={true}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="-1"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      Some Text
+    </span>
+  </button>,
+]
+`;
+
+exports[`Button renders examples: md 1`] = `
+Array [
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button"
+    data-test-id="Example-Button-Default"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      Hi Dan
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <hr
+    className="tdd-Divider--divider"
+  />,
+  <div
+    className="tdd-Example--checkeredContainer"
+  >
+    <button
+      className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedSecondary tdd-MuiButton-raised tdd-MuiButton-raisedSecondary tdd-Button--button tdd-Button--secondary"
+      disabled={false}
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex="0"
+      type="button"
+    >
+      <span
+        className="tdd-MuiButton-label"
+      >
+        Hi Dan
+      </span>
+      <span
+        className="tdd-MuiTouchRipple-root"
+      />
+    </button>
+  </div>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedSecondary tdd-MuiButton-raised tdd-MuiButton-raisedSecondary tdd-Button--button tdd-Button--secondary"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="fas fa-star tdd-Button--icon"
+      />
+      Hi Icon Button
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedSecondary tdd-MuiButton-raised tdd-MuiButton-raisedSecondary tdd-Button--button tdd-Button--secondary"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="fas fa-headphones"
+      />
+      Hi Icon Button 2
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedSecondary tdd-MuiButton-raised tdd-MuiButton-raisedSecondary tdd-Button--button tdd-Button--secondary"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="fab fa-red-river"
+      />
+      Hi Icon Button 3
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-textPrimary tdd-MuiButton-flat tdd-MuiButton-flatPrimary tdd-Button--button tdd-Button--link"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="fas fa-user-circle tdd-Button--icon"
+      />
+      Click Me
+    </span>
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--blank"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="far fa-edit"
+      />
+    </span>
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--blank"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      Some Text
+    </span>
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button tdd-Button--linkBlack"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      Some Text
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButtonBase-disabled tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-MuiButton-disabled tdd-Button--button tdd-Button--linkBlack"
+    disabled={true}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="-1"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      Some Text
+    </span>
+  </button>,
+]
+`;
+
+exports[`Button renders examples: sm 1`] = `
+Array [
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button"
+    data-test-id="Example-Button-Default"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      Hi Dan
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <hr
+    className="tdd-Divider--divider"
+  />,
+  <div
+    className="tdd-Example--checkeredContainer"
+  >
+    <button
+      className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedSecondary tdd-MuiButton-raised tdd-MuiButton-raisedSecondary tdd-Button--button tdd-Button--secondary"
+      disabled={false}
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex="0"
+      type="button"
+    >
+      <span
+        className="tdd-MuiButton-label"
+      >
+        Hi Dan
+      </span>
+      <span
+        className="tdd-MuiTouchRipple-root"
+      />
+    </button>
+  </div>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedSecondary tdd-MuiButton-raised tdd-MuiButton-raisedSecondary tdd-Button--button tdd-Button--secondary"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="fas fa-star tdd-Button--icon"
+      />
+      Hi Icon Button
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedSecondary tdd-MuiButton-raised tdd-MuiButton-raisedSecondary tdd-Button--button tdd-Button--secondary"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="fas fa-headphones"
+      />
+      Hi Icon Button 2
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedSecondary tdd-MuiButton-raised tdd-MuiButton-raisedSecondary tdd-Button--button tdd-Button--secondary"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="fab fa-red-river"
+      />
+      Hi Icon Button 3
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-textPrimary tdd-MuiButton-flat tdd-MuiButton-flatPrimary tdd-Button--button tdd-Button--link"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="fas fa-user-circle tdd-Button--icon"
+      />
+      Click Me
+    </span>
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--blank"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="far fa-edit"
+      />
+    </span>
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--blank"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      Some Text
+    </span>
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button tdd-Button--linkBlack"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      Some Text
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButtonBase-disabled tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-MuiButton-disabled tdd-Button--button tdd-Button--linkBlack"
+    disabled={true}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="-1"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      Some Text
+    </span>
+  </button>,
+]
+`;
+
+exports[`Button renders examples: xl 1`] = `
+Array [
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button"
+    data-test-id="Example-Button-Default"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      Hi Dan
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <hr
+    className="tdd-Divider--divider"
+  />,
+  <div
+    className="tdd-Example--checkeredContainer"
+  >
+    <button
+      className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedSecondary tdd-MuiButton-raised tdd-MuiButton-raisedSecondary tdd-Button--button tdd-Button--secondary"
+      disabled={false}
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex="0"
+      type="button"
+    >
+      <span
+        className="tdd-MuiButton-label"
+      >
+        Hi Dan
+      </span>
+      <span
+        className="tdd-MuiTouchRipple-root"
+      />
+    </button>
+  </div>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedSecondary tdd-MuiButton-raised tdd-MuiButton-raisedSecondary tdd-Button--button tdd-Button--secondary"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="fas fa-star tdd-Button--icon"
+      />
+      Hi Icon Button
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedSecondary tdd-MuiButton-raised tdd-MuiButton-raisedSecondary tdd-Button--button tdd-Button--secondary"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="fas fa-headphones"
+      />
+      Hi Icon Button 2
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedSecondary tdd-MuiButton-raised tdd-MuiButton-raisedSecondary tdd-Button--button tdd-Button--secondary"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="fab fa-red-river"
+      />
+      Hi Icon Button 3
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-textPrimary tdd-MuiButton-flat tdd-MuiButton-flatPrimary tdd-Button--button tdd-Button--link"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="fas fa-user-circle tdd-Button--icon"
+      />
+      Click Me
+    </span>
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--blank"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="far fa-edit"
+      />
+    </span>
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--blank"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      Some Text
+    </span>
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button tdd-Button--linkBlack"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      Some Text
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButtonBase-disabled tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-MuiButton-disabled tdd-Button--button tdd-Button--linkBlack"
+    disabled={true}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="-1"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      Some Text
+    </span>
+  </button>,
+]
+`;
+
+exports[`Button renders examples: xs 1`] = `
+Array [
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button"
+    data-test-id="Example-Button-Default"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      Hi Dan
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <hr
+    className="tdd-Divider--divider"
+  />,
+  <div
+    className="tdd-Example--checkeredContainer"
+  >
+    <button
+      className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedSecondary tdd-MuiButton-raised tdd-MuiButton-raisedSecondary tdd-Button--button tdd-Button--secondary"
+      disabled={false}
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex="0"
+      type="button"
+    >
+      <span
+        className="tdd-MuiButton-label"
+      >
+        Hi Dan
+      </span>
+      <span
+        className="tdd-MuiTouchRipple-root"
+      />
+    </button>
+  </div>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedSecondary tdd-MuiButton-raised tdd-MuiButton-raisedSecondary tdd-Button--button tdd-Button--secondary"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="fas fa-star tdd-Button--icon"
+      />
+      Hi Icon Button
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedSecondary tdd-MuiButton-raised tdd-MuiButton-raisedSecondary tdd-Button--button tdd-Button--secondary"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="fas fa-headphones"
+      />
+      Hi Icon Button 2
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedSecondary tdd-MuiButton-raised tdd-MuiButton-raisedSecondary tdd-Button--button tdd-Button--secondary"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="fab fa-red-river"
+      />
+      Hi Icon Button 3
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-textPrimary tdd-MuiButton-flat tdd-MuiButton-flatPrimary tdd-Button--button tdd-Button--link"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="fas fa-user-circle tdd-Button--icon"
+      />
+      Click Me
+    </span>
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--blank"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      <span
+        className="far fa-edit"
+      />
+    </span>
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--blank"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      Some Text
+    </span>
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button tdd-Button--linkBlack"
+    disabled={false}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      Some Text
+    </span>
+    <span
+      className="tdd-MuiTouchRipple-root"
+    />
+  </button>,
+  <button
+    className="tdd-MuiButtonBase-root tdd-MuiButtonBase-disabled tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-MuiButton-disabled tdd-Button--button tdd-Button--linkBlack"
+    disabled={true}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="-1"
+    type="button"
+  >
+    <span
+      className="tdd-MuiButton-label"
+    >
+      Some Text
+    </span>
+  </button>,
+]
+`;
