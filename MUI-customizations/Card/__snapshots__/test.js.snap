@@ -1,0 +1,2501 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card renders examples: lg 1`] = `
+Array [
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Card with Tabs
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <div
+        className="tdd-MuiTabs-root tdd-CardTabs--tabsRoot"
+      >
+        <div
+          className="tdd-MuiTabs-flexContainer"
+        >
+          <div
+            className="tdd-MuiTabs-scroller tdd-MuiTabs-fixed"
+            onScroll={[Function]}
+            role="tablist"
+            style={
+              Object {
+                "marginBottom": 0,
+              }
+            }
+          >
+            <div
+              className="tdd-MuiTabs-flexContainer"
+            >
+              <button
+                aria-selected={true}
+                className="tdd-MuiButtonBase-root tdd-MuiTab-root tdd-CardTab--tabRoot tdd-MuiTab-textColorPrimary tdd-MuiTab-selected tdd-CardTab--tabSelected tdd-MuiTab-fullWidth"
+                disabled={false}
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                role="tab"
+                tabIndex="0"
+                type="button"
+              >
+                <span
+                  className="tdd-MuiTab-wrapper"
+                >
+                  <span
+                    className="tdd-MuiTab-labelContainer tdd-CardTab--tabLabelContainer"
+                  >
+                    <span
+                      className="tdd-MuiTab-label tdd-CardTab--tabLabel"
+                    >
+                      View All
+                    </span>
+                  </span>
+                </span>
+                <span
+                  className="tdd-MuiTouchRipple-root"
+                />
+              </button>
+              <button
+                aria-selected={false}
+                className="tdd-MuiButtonBase-root tdd-MuiTab-root tdd-CardTab--tabRoot tdd-MuiTab-textColorPrimary tdd-MuiTab-fullWidth"
+                disabled={false}
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                role="tab"
+                tabIndex="0"
+                type="button"
+              >
+                <span
+                  className="tdd-MuiTab-wrapper"
+                >
+                  <span
+                    className="tdd-MuiTab-labelContainer tdd-CardTab--tabLabelContainer"
+                  >
+                    <span
+                      className="tdd-MuiTab-label tdd-CardTab--tabLabel"
+                    >
+                      Search
+                    </span>
+                  </span>
+                </span>
+                <span
+                  className="tdd-MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+            <span
+              className="tdd-TabIndicator-root tdd-TabIndicator-colorPrimary tdd-MuiTabs-indicator tdd-CardTabs--indicator"
+              style={
+                Object {
+                  "left": 0,
+                  "width": 0,
+                }
+              }
+            />
+          </div>
+        </div>
+      </div>
+      <span
+        className="tdd-Text--body"
+      >
+        View All Content
+      </span>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Basic Card
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <span
+        className="tdd-Text--body"
+      >
+        Card body text
+      </span>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Basic card
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      >
+        <button
+          className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-textPrimary tdd-MuiButton-flat tdd-MuiButton-flatPrimary tdd-Button--button tdd-Button--link tdd-Button--onCard tdd-Button--noBorder"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex="0"
+          type="button"
+        >
+          <span
+            className="tdd-MuiButton-label"
+          >
+            <span
+              className="fas fa-edit tdd-Button--icon tdd-Button--iconNoSpacing"
+            />
+          </span>
+        </button>
+      </div>
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <span
+        className="tdd-Text--body"
+      >
+        Card body text
+      </span>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Basic card
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      >
+        <button
+          className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex="0"
+          type="button"
+        >
+          <span
+            className="tdd-MuiButton-label"
+          >
+            Update
+          </span>
+          <span
+            className="tdd-MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <span
+        className="tdd-Text--body"
+      >
+        Content
+      </span>
+    </div>
+    <div
+      className="tdd-Card--bottomButtons"
+    >
+      <button
+        className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button"
+        disabled={false}
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex="0"
+        type="button"
+      >
+        <span
+          className="tdd-MuiButton-label"
+        >
+          Update
+        </span>
+        <span
+          className="tdd-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Basic card
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <span
+        className="tdd-Text--body"
+      >
+        Content
+      </span>
+    </div>
+    <div
+      className="tdd-Card--bottomButtons"
+    >
+      <button
+        className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button"
+        disabled={false}
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex="0"
+        type="button"
+      >
+        <span
+          className="tdd-MuiButton-label"
+        >
+          Update
+        </span>
+        <span
+          className="tdd-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>,
+  <div
+    className="tdd-MuiGrid-container tdd-MuiGrid-spacing-xs-16"
+  >
+    <div
+      className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-4 tdd-Component--col"
+    >
+      <div
+        className="tdd-CardSection--container"
+      >
+        <div
+          className="tdd-CardSection--title"
+        >
+          <span
+            className="tdd-Text--body tdd-CardSectionTitle--text"
+          >
+            Estimated Views from All Videos
+          </span>
+        </div>
+        <span
+          className="tdd-Text--body tdd-CardSectionValue--text"
+        >
+          8,152,508
+        </span>
+      </div>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Card With Section
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <div
+        className="tdd-MuiGrid-container tdd-MuiGrid-spacing-xs-16"
+      >
+        <div
+          className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-3 tdd-Component--col"
+        >
+          <div
+            className="tdd-CardSection--container"
+          >
+            <div
+              className="tdd-CardSection--title"
+            >
+              <span
+                className="tdd-Text--body tdd-CardSectionTitle--text"
+              >
+                This is 1
+              </span>
+            </div>
+            <span
+              className="tdd-Text--body tdd-CardSectionValue--text"
+            >
+              8,152,508
+            </span>
+          </div>
+        </div>
+        <div
+          className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-3 tdd-Component--col"
+        >
+          <div
+            className="tdd-CardSection--container"
+          >
+            <div
+              className="tdd-CardSection--title"
+            >
+              <span
+                className="tdd-Text--body tdd-CardSectionTitle--text"
+              >
+                This is 2
+              </span>
+            </div>
+            <span
+              className="tdd-Text--body tdd-CardSectionValue--text"
+            >
+              252,228
+            </span>
+          </div>
+        </div>
+        <div
+          className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-3 tdd-Component--col"
+        >
+          <div
+            className="tdd-CardSection--container"
+          >
+            <div
+              className="tdd-CardSection--title"
+            >
+              <span
+                className="tdd-Text--body tdd-CardSectionTitle--text"
+              >
+                This is 3
+              </span>
+            </div>
+            <span
+              className="tdd-Text--body tdd-CardSectionValue--text"
+            >
+              563,123
+            </span>
+          </div>
+        </div>
+        <div
+          className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-3 tdd-Component--col"
+        >
+          <div
+            className="tdd-CardSection--container"
+          >
+            <div
+              className="tdd-CardSection--title"
+            >
+              <span
+                className="tdd-Text--body tdd-CardSectionTitle--text"
+              >
+                This is 4
+              </span>
+            </div>
+            <span
+              className="tdd-Text--body tdd-CardSectionValue--text"
+            >
+              993,123
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Card renders examples: md 1`] = `
+Array [
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Card with Tabs
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <div
+        className="tdd-MuiTabs-root tdd-CardTabs--tabsRoot"
+      >
+        <div
+          className="tdd-MuiTabs-flexContainer"
+        >
+          <div
+            className="tdd-MuiTabs-scroller tdd-MuiTabs-fixed"
+            onScroll={[Function]}
+            role="tablist"
+            style={
+              Object {
+                "marginBottom": 0,
+              }
+            }
+          >
+            <div
+              className="tdd-MuiTabs-flexContainer"
+            >
+              <button
+                aria-selected={true}
+                className="tdd-MuiButtonBase-root tdd-MuiTab-root tdd-CardTab--tabRoot tdd-MuiTab-textColorPrimary tdd-MuiTab-selected tdd-CardTab--tabSelected tdd-MuiTab-fullWidth"
+                disabled={false}
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                role="tab"
+                tabIndex="0"
+                type="button"
+              >
+                <span
+                  className="tdd-MuiTab-wrapper"
+                >
+                  <span
+                    className="tdd-MuiTab-labelContainer tdd-CardTab--tabLabelContainer"
+                  >
+                    <span
+                      className="tdd-MuiTab-label tdd-CardTab--tabLabel"
+                    >
+                      View All
+                    </span>
+                  </span>
+                </span>
+                <span
+                  className="tdd-MuiTouchRipple-root"
+                />
+              </button>
+              <button
+                aria-selected={false}
+                className="tdd-MuiButtonBase-root tdd-MuiTab-root tdd-CardTab--tabRoot tdd-MuiTab-textColorPrimary tdd-MuiTab-fullWidth"
+                disabled={false}
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                role="tab"
+                tabIndex="0"
+                type="button"
+              >
+                <span
+                  className="tdd-MuiTab-wrapper"
+                >
+                  <span
+                    className="tdd-MuiTab-labelContainer tdd-CardTab--tabLabelContainer"
+                  >
+                    <span
+                      className="tdd-MuiTab-label tdd-CardTab--tabLabel"
+                    >
+                      Search
+                    </span>
+                  </span>
+                </span>
+                <span
+                  className="tdd-MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+            <span
+              className="tdd-TabIndicator-root tdd-TabIndicator-colorPrimary tdd-MuiTabs-indicator tdd-CardTabs--indicator"
+              style={
+                Object {
+                  "left": 0,
+                  "width": 0,
+                }
+              }
+            />
+          </div>
+        </div>
+      </div>
+      <span
+        className="tdd-Text--body"
+      >
+        View All Content
+      </span>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Basic Card
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <span
+        className="tdd-Text--body"
+      >
+        Card body text
+      </span>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Basic card
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      >
+        <button
+          className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-textPrimary tdd-MuiButton-flat tdd-MuiButton-flatPrimary tdd-Button--button tdd-Button--link tdd-Button--onCard tdd-Button--noBorder"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex="0"
+          type="button"
+        >
+          <span
+            className="tdd-MuiButton-label"
+          >
+            <span
+              className="fas fa-edit tdd-Button--icon tdd-Button--iconNoSpacing"
+            />
+          </span>
+        </button>
+      </div>
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <span
+        className="tdd-Text--body"
+      >
+        Card body text
+      </span>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Basic card
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      >
+        <button
+          className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex="0"
+          type="button"
+        >
+          <span
+            className="tdd-MuiButton-label"
+          >
+            Update
+          </span>
+          <span
+            className="tdd-MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <span
+        className="tdd-Text--body"
+      >
+        Content
+      </span>
+    </div>
+    <div
+      className="tdd-Card--bottomButtons"
+    >
+      <button
+        className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button"
+        disabled={false}
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex="0"
+        type="button"
+      >
+        <span
+          className="tdd-MuiButton-label"
+        >
+          Update
+        </span>
+        <span
+          className="tdd-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Basic card
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <span
+        className="tdd-Text--body"
+      >
+        Content
+      </span>
+    </div>
+    <div
+      className="tdd-Card--bottomButtons"
+    >
+      <button
+        className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button"
+        disabled={false}
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex="0"
+        type="button"
+      >
+        <span
+          className="tdd-MuiButton-label"
+        >
+          Update
+        </span>
+        <span
+          className="tdd-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>,
+  <div
+    className="tdd-MuiGrid-container tdd-MuiGrid-spacing-xs-16"
+  >
+    <div
+      className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-4 tdd-Component--col"
+    >
+      <div
+        className="tdd-CardSection--container"
+      >
+        <div
+          className="tdd-CardSection--title"
+        >
+          <span
+            className="tdd-Text--body tdd-CardSectionTitle--text"
+          >
+            Estimated Views from All Videos
+          </span>
+        </div>
+        <span
+          className="tdd-Text--body tdd-CardSectionValue--text"
+        >
+          8,152,508
+        </span>
+      </div>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Card With Section
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <div
+        className="tdd-MuiGrid-container tdd-MuiGrid-spacing-xs-16"
+      >
+        <div
+          className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-3 tdd-Component--col"
+        >
+          <div
+            className="tdd-CardSection--container"
+          >
+            <div
+              className="tdd-CardSection--title"
+            >
+              <span
+                className="tdd-Text--body tdd-CardSectionTitle--text"
+              >
+                This is 1
+              </span>
+            </div>
+            <span
+              className="tdd-Text--body tdd-CardSectionValue--text"
+            >
+              8,152,508
+            </span>
+          </div>
+        </div>
+        <div
+          className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-3 tdd-Component--col"
+        >
+          <div
+            className="tdd-CardSection--container"
+          >
+            <div
+              className="tdd-CardSection--title"
+            >
+              <span
+                className="tdd-Text--body tdd-CardSectionTitle--text"
+              >
+                This is 2
+              </span>
+            </div>
+            <span
+              className="tdd-Text--body tdd-CardSectionValue--text"
+            >
+              252,228
+            </span>
+          </div>
+        </div>
+        <div
+          className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-3 tdd-Component--col"
+        >
+          <div
+            className="tdd-CardSection--container"
+          >
+            <div
+              className="tdd-CardSection--title"
+            >
+              <span
+                className="tdd-Text--body tdd-CardSectionTitle--text"
+              >
+                This is 3
+              </span>
+            </div>
+            <span
+              className="tdd-Text--body tdd-CardSectionValue--text"
+            >
+              563,123
+            </span>
+          </div>
+        </div>
+        <div
+          className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-3 tdd-Component--col"
+        >
+          <div
+            className="tdd-CardSection--container"
+          >
+            <div
+              className="tdd-CardSection--title"
+            >
+              <span
+                className="tdd-Text--body tdd-CardSectionTitle--text"
+              >
+                This is 4
+              </span>
+            </div>
+            <span
+              className="tdd-Text--body tdd-CardSectionValue--text"
+            >
+              993,123
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Card renders examples: sm 1`] = `
+Array [
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Card with Tabs
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <div
+        className="tdd-MuiTabs-root tdd-CardTabs--tabsRoot"
+      >
+        <div
+          className="tdd-MuiTabs-flexContainer"
+        >
+          <div
+            className="tdd-MuiTabs-scroller tdd-MuiTabs-fixed"
+            onScroll={[Function]}
+            role="tablist"
+            style={
+              Object {
+                "marginBottom": 0,
+              }
+            }
+          >
+            <div
+              className="tdd-MuiTabs-flexContainer"
+            >
+              <button
+                aria-selected={true}
+                className="tdd-MuiButtonBase-root tdd-MuiTab-root tdd-CardTab--tabRoot tdd-MuiTab-textColorPrimary tdd-MuiTab-selected tdd-CardTab--tabSelected tdd-MuiTab-fullWidth"
+                disabled={false}
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                role="tab"
+                tabIndex="0"
+                type="button"
+              >
+                <span
+                  className="tdd-MuiTab-wrapper"
+                >
+                  <span
+                    className="tdd-MuiTab-labelContainer tdd-CardTab--tabLabelContainer"
+                  >
+                    <span
+                      className="tdd-MuiTab-label tdd-CardTab--tabLabel"
+                    >
+                      View All
+                    </span>
+                  </span>
+                </span>
+                <span
+                  className="tdd-MuiTouchRipple-root"
+                />
+              </button>
+              <button
+                aria-selected={false}
+                className="tdd-MuiButtonBase-root tdd-MuiTab-root tdd-CardTab--tabRoot tdd-MuiTab-textColorPrimary tdd-MuiTab-fullWidth"
+                disabled={false}
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                role="tab"
+                tabIndex="0"
+                type="button"
+              >
+                <span
+                  className="tdd-MuiTab-wrapper"
+                >
+                  <span
+                    className="tdd-MuiTab-labelContainer tdd-CardTab--tabLabelContainer"
+                  >
+                    <span
+                      className="tdd-MuiTab-label tdd-CardTab--tabLabel"
+                    >
+                      Search
+                    </span>
+                  </span>
+                </span>
+                <span
+                  className="tdd-MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+            <span
+              className="tdd-TabIndicator-root tdd-TabIndicator-colorPrimary tdd-MuiTabs-indicator tdd-CardTabs--indicator"
+              style={
+                Object {
+                  "left": 0,
+                  "width": 0,
+                }
+              }
+            />
+          </div>
+        </div>
+      </div>
+      <span
+        className="tdd-Text--body"
+      >
+        View All Content
+      </span>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Basic Card
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <span
+        className="tdd-Text--body"
+      >
+        Card body text
+      </span>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Basic card
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      >
+        <button
+          className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-textPrimary tdd-MuiButton-flat tdd-MuiButton-flatPrimary tdd-Button--button tdd-Button--link tdd-Button--onCard tdd-Button--noBorder"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex="0"
+          type="button"
+        >
+          <span
+            className="tdd-MuiButton-label"
+          >
+            <span
+              className="fas fa-edit tdd-Button--icon tdd-Button--iconNoSpacing"
+            />
+          </span>
+        </button>
+      </div>
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <span
+        className="tdd-Text--body"
+      >
+        Card body text
+      </span>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Basic card
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      >
+        <button
+          className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex="0"
+          type="button"
+        >
+          <span
+            className="tdd-MuiButton-label"
+          >
+            Update
+          </span>
+          <span
+            className="tdd-MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <span
+        className="tdd-Text--body"
+      >
+        Content
+      </span>
+    </div>
+    <div
+      className="tdd-Card--bottomButtons"
+    >
+      <button
+        className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button"
+        disabled={false}
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex="0"
+        type="button"
+      >
+        <span
+          className="tdd-MuiButton-label"
+        >
+          Update
+        </span>
+        <span
+          className="tdd-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Basic card
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <span
+        className="tdd-Text--body"
+      >
+        Content
+      </span>
+    </div>
+    <div
+      className="tdd-Card--bottomButtons"
+    >
+      <button
+        className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button"
+        disabled={false}
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex="0"
+        type="button"
+      >
+        <span
+          className="tdd-MuiButton-label"
+        >
+          Update
+        </span>
+        <span
+          className="tdd-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>,
+  <div
+    className="tdd-MuiGrid-container tdd-MuiGrid-spacing-xs-16"
+  >
+    <div
+      className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-4 tdd-Component--col"
+    >
+      <div
+        className="tdd-CardSection--container"
+      >
+        <div
+          className="tdd-CardSection--title"
+        >
+          <span
+            className="tdd-Text--body tdd-CardSectionTitle--text"
+          >
+            Estimated Views from All Videos
+          </span>
+        </div>
+        <span
+          className="tdd-Text--body tdd-CardSectionValue--text"
+        >
+          8,152,508
+        </span>
+      </div>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Card With Section
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <div
+        className="tdd-MuiGrid-container tdd-MuiGrid-spacing-xs-16"
+      >
+        <div
+          className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-3 tdd-Component--col"
+        >
+          <div
+            className="tdd-CardSection--container"
+          >
+            <div
+              className="tdd-CardSection--title"
+            >
+              <span
+                className="tdd-Text--body tdd-CardSectionTitle--text"
+              >
+                This is 1
+              </span>
+            </div>
+            <span
+              className="tdd-Text--body tdd-CardSectionValue--text"
+            >
+              8,152,508
+            </span>
+          </div>
+        </div>
+        <div
+          className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-3 tdd-Component--col"
+        >
+          <div
+            className="tdd-CardSection--container"
+          >
+            <div
+              className="tdd-CardSection--title"
+            >
+              <span
+                className="tdd-Text--body tdd-CardSectionTitle--text"
+              >
+                This is 2
+              </span>
+            </div>
+            <span
+              className="tdd-Text--body tdd-CardSectionValue--text"
+            >
+              252,228
+            </span>
+          </div>
+        </div>
+        <div
+          className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-3 tdd-Component--col"
+        >
+          <div
+            className="tdd-CardSection--container"
+          >
+            <div
+              className="tdd-CardSection--title"
+            >
+              <span
+                className="tdd-Text--body tdd-CardSectionTitle--text"
+              >
+                This is 3
+              </span>
+            </div>
+            <span
+              className="tdd-Text--body tdd-CardSectionValue--text"
+            >
+              563,123
+            </span>
+          </div>
+        </div>
+        <div
+          className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-3 tdd-Component--col"
+        >
+          <div
+            className="tdd-CardSection--container"
+          >
+            <div
+              className="tdd-CardSection--title"
+            >
+              <span
+                className="tdd-Text--body tdd-CardSectionTitle--text"
+              >
+                This is 4
+              </span>
+            </div>
+            <span
+              className="tdd-Text--body tdd-CardSectionValue--text"
+            >
+              993,123
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Card renders examples: xl 1`] = `
+Array [
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Card with Tabs
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <div
+        className="tdd-MuiTabs-root tdd-CardTabs--tabsRoot"
+      >
+        <div
+          className="tdd-MuiTabs-flexContainer"
+        >
+          <div
+            className="tdd-MuiTabs-scroller tdd-MuiTabs-fixed"
+            onScroll={[Function]}
+            role="tablist"
+            style={
+              Object {
+                "marginBottom": 0,
+              }
+            }
+          >
+            <div
+              className="tdd-MuiTabs-flexContainer"
+            >
+              <button
+                aria-selected={true}
+                className="tdd-MuiButtonBase-root tdd-MuiTab-root tdd-CardTab--tabRoot tdd-MuiTab-textColorPrimary tdd-MuiTab-selected tdd-CardTab--tabSelected tdd-MuiTab-fullWidth"
+                disabled={false}
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                role="tab"
+                tabIndex="0"
+                type="button"
+              >
+                <span
+                  className="tdd-MuiTab-wrapper"
+                >
+                  <span
+                    className="tdd-MuiTab-labelContainer tdd-CardTab--tabLabelContainer"
+                  >
+                    <span
+                      className="tdd-MuiTab-label tdd-CardTab--tabLabel"
+                    >
+                      View All
+                    </span>
+                  </span>
+                </span>
+                <span
+                  className="tdd-MuiTouchRipple-root"
+                />
+              </button>
+              <button
+                aria-selected={false}
+                className="tdd-MuiButtonBase-root tdd-MuiTab-root tdd-CardTab--tabRoot tdd-MuiTab-textColorPrimary tdd-MuiTab-fullWidth"
+                disabled={false}
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                role="tab"
+                tabIndex="0"
+                type="button"
+              >
+                <span
+                  className="tdd-MuiTab-wrapper"
+                >
+                  <span
+                    className="tdd-MuiTab-labelContainer tdd-CardTab--tabLabelContainer"
+                  >
+                    <span
+                      className="tdd-MuiTab-label tdd-CardTab--tabLabel"
+                    >
+                      Search
+                    </span>
+                  </span>
+                </span>
+                <span
+                  className="tdd-MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+            <span
+              className="tdd-TabIndicator-root tdd-TabIndicator-colorPrimary tdd-MuiTabs-indicator tdd-CardTabs--indicator"
+              style={
+                Object {
+                  "left": 0,
+                  "width": 0,
+                }
+              }
+            />
+          </div>
+        </div>
+      </div>
+      <span
+        className="tdd-Text--body"
+      >
+        View All Content
+      </span>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Basic Card
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <span
+        className="tdd-Text--body"
+      >
+        Card body text
+      </span>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Basic card
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      >
+        <button
+          className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-textPrimary tdd-MuiButton-flat tdd-MuiButton-flatPrimary tdd-Button--button tdd-Button--link tdd-Button--onCard tdd-Button--noBorder"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex="0"
+          type="button"
+        >
+          <span
+            className="tdd-MuiButton-label"
+          >
+            <span
+              className="fas fa-edit tdd-Button--icon tdd-Button--iconNoSpacing"
+            />
+          </span>
+        </button>
+      </div>
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <span
+        className="tdd-Text--body"
+      >
+        Card body text
+      </span>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Basic card
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      >
+        <button
+          className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex="0"
+          type="button"
+        >
+          <span
+            className="tdd-MuiButton-label"
+          >
+            Update
+          </span>
+          <span
+            className="tdd-MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <span
+        className="tdd-Text--body"
+      >
+        Content
+      </span>
+    </div>
+    <div
+      className="tdd-Card--bottomButtons"
+    >
+      <button
+        className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button"
+        disabled={false}
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex="0"
+        type="button"
+      >
+        <span
+          className="tdd-MuiButton-label"
+        >
+          Update
+        </span>
+        <span
+          className="tdd-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Basic card
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <span
+        className="tdd-Text--body"
+      >
+        Content
+      </span>
+    </div>
+    <div
+      className="tdd-Card--bottomButtons"
+    >
+      <button
+        className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button"
+        disabled={false}
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex="0"
+        type="button"
+      >
+        <span
+          className="tdd-MuiButton-label"
+        >
+          Update
+        </span>
+        <span
+          className="tdd-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>,
+  <div
+    className="tdd-MuiGrid-container tdd-MuiGrid-spacing-xs-16"
+  >
+    <div
+      className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-4 tdd-Component--col"
+    >
+      <div
+        className="tdd-CardSection--container"
+      >
+        <div
+          className="tdd-CardSection--title"
+        >
+          <span
+            className="tdd-Text--body tdd-CardSectionTitle--text"
+          >
+            Estimated Views from All Videos
+          </span>
+        </div>
+        <span
+          className="tdd-Text--body tdd-CardSectionValue--text"
+        >
+          8,152,508
+        </span>
+      </div>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Card With Section
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <div
+        className="tdd-MuiGrid-container tdd-MuiGrid-spacing-xs-16"
+      >
+        <div
+          className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-3 tdd-Component--col"
+        >
+          <div
+            className="tdd-CardSection--container"
+          >
+            <div
+              className="tdd-CardSection--title"
+            >
+              <span
+                className="tdd-Text--body tdd-CardSectionTitle--text"
+              >
+                This is 1
+              </span>
+            </div>
+            <span
+              className="tdd-Text--body tdd-CardSectionValue--text"
+            >
+              8,152,508
+            </span>
+          </div>
+        </div>
+        <div
+          className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-3 tdd-Component--col"
+        >
+          <div
+            className="tdd-CardSection--container"
+          >
+            <div
+              className="tdd-CardSection--title"
+            >
+              <span
+                className="tdd-Text--body tdd-CardSectionTitle--text"
+              >
+                This is 2
+              </span>
+            </div>
+            <span
+              className="tdd-Text--body tdd-CardSectionValue--text"
+            >
+              252,228
+            </span>
+          </div>
+        </div>
+        <div
+          className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-3 tdd-Component--col"
+        >
+          <div
+            className="tdd-CardSection--container"
+          >
+            <div
+              className="tdd-CardSection--title"
+            >
+              <span
+                className="tdd-Text--body tdd-CardSectionTitle--text"
+              >
+                This is 3
+              </span>
+            </div>
+            <span
+              className="tdd-Text--body tdd-CardSectionValue--text"
+            >
+              563,123
+            </span>
+          </div>
+        </div>
+        <div
+          className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-3 tdd-Component--col"
+        >
+          <div
+            className="tdd-CardSection--container"
+          >
+            <div
+              className="tdd-CardSection--title"
+            >
+              <span
+                className="tdd-Text--body tdd-CardSectionTitle--text"
+              >
+                This is 4
+              </span>
+            </div>
+            <span
+              className="tdd-Text--body tdd-CardSectionValue--text"
+            >
+              993,123
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Card renders examples: xs 1`] = `
+Array [
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Card with Tabs
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <div
+        className="tdd-MuiTabs-root tdd-CardTabs--tabsRoot"
+      >
+        <div
+          className="tdd-MuiTabs-flexContainer"
+        >
+          <div
+            className="tdd-MuiTabs-scroller tdd-MuiTabs-fixed"
+            onScroll={[Function]}
+            role="tablist"
+            style={
+              Object {
+                "marginBottom": 0,
+              }
+            }
+          >
+            <div
+              className="tdd-MuiTabs-flexContainer"
+            >
+              <button
+                aria-selected={true}
+                className="tdd-MuiButtonBase-root tdd-MuiTab-root tdd-CardTab--tabRoot tdd-MuiTab-textColorPrimary tdd-MuiTab-selected tdd-CardTab--tabSelected tdd-MuiTab-fullWidth"
+                disabled={false}
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                role="tab"
+                tabIndex="0"
+                type="button"
+              >
+                <span
+                  className="tdd-MuiTab-wrapper"
+                >
+                  <span
+                    className="tdd-MuiTab-labelContainer tdd-CardTab--tabLabelContainer"
+                  >
+                    <span
+                      className="tdd-MuiTab-label tdd-CardTab--tabLabel"
+                    >
+                      View All
+                    </span>
+                  </span>
+                </span>
+                <span
+                  className="tdd-MuiTouchRipple-root"
+                />
+              </button>
+              <button
+                aria-selected={false}
+                className="tdd-MuiButtonBase-root tdd-MuiTab-root tdd-CardTab--tabRoot tdd-MuiTab-textColorPrimary tdd-MuiTab-fullWidth"
+                disabled={false}
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                role="tab"
+                tabIndex="0"
+                type="button"
+              >
+                <span
+                  className="tdd-MuiTab-wrapper"
+                >
+                  <span
+                    className="tdd-MuiTab-labelContainer tdd-CardTab--tabLabelContainer"
+                  >
+                    <span
+                      className="tdd-MuiTab-label tdd-CardTab--tabLabel"
+                    >
+                      Search
+                    </span>
+                  </span>
+                </span>
+                <span
+                  className="tdd-MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+            <span
+              className="tdd-TabIndicator-root tdd-TabIndicator-colorPrimary tdd-MuiTabs-indicator tdd-CardTabs--indicator"
+              style={
+                Object {
+                  "left": 0,
+                  "width": 0,
+                }
+              }
+            />
+          </div>
+        </div>
+      </div>
+      <span
+        className="tdd-Text--body"
+      >
+        View All Content
+      </span>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Basic Card
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <span
+        className="tdd-Text--body"
+      >
+        Card body text
+      </span>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Basic card
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      >
+        <button
+          className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-textPrimary tdd-MuiButton-flat tdd-MuiButton-flatPrimary tdd-Button--button tdd-Button--link tdd-Button--onCard tdd-Button--noBorder"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex="0"
+          type="button"
+        >
+          <span
+            className="tdd-MuiButton-label"
+          >
+            <span
+              className="fas fa-edit tdd-Button--icon tdd-Button--iconNoSpacing"
+            />
+          </span>
+        </button>
+      </div>
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <span
+        className="tdd-Text--body"
+      >
+        Card body text
+      </span>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Basic card
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      >
+        <button
+          className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex="0"
+          type="button"
+        >
+          <span
+            className="tdd-MuiButton-label"
+          >
+            Update
+          </span>
+          <span
+            className="tdd-MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <span
+        className="tdd-Text--body"
+      >
+        Content
+      </span>
+    </div>
+    <div
+      className="tdd-Card--bottomButtons"
+    >
+      <button
+        className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button"
+        disabled={false}
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex="0"
+        type="button"
+      >
+        <span
+          className="tdd-MuiButton-label"
+        >
+          Update
+        </span>
+        <span
+          className="tdd-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Basic card
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <span
+        className="tdd-Text--body"
+      >
+        Content
+      </span>
+    </div>
+    <div
+      className="tdd-Card--bottomButtons"
+    >
+      <button
+        className="tdd-MuiButtonBase-root tdd-MuiButton-root tdd-MuiButton-contained tdd-MuiButton-containedPrimary tdd-MuiButton-raised tdd-MuiButton-raisedPrimary tdd-Button--button"
+        disabled={false}
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex="0"
+        type="button"
+      >
+        <span
+          className="tdd-MuiButton-label"
+        >
+          Update
+        </span>
+        <span
+          className="tdd-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>,
+  <div
+    className="tdd-MuiGrid-container tdd-MuiGrid-spacing-xs-16"
+  >
+    <div
+      className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-4 tdd-Component--col"
+    >
+      <div
+        className="tdd-CardSection--container"
+      >
+        <div
+          className="tdd-CardSection--title"
+        >
+          <span
+            className="tdd-Text--body tdd-CardSectionTitle--text"
+          >
+            Estimated Views from All Videos
+          </span>
+        </div>
+        <span
+          className="tdd-Text--body tdd-CardSectionValue--text"
+        >
+          8,152,508
+        </span>
+      </div>
+    </div>
+  </div>,
+  <div
+    className="tdd-Card--container"
+  >
+    <div
+      className="tdd-SpaceBetween--container"
+    >
+      <h2
+        className="tdd-Heading--all tdd-Heading--h2 tdd-CardTitleLarge--text"
+      >
+        Card With Section
+      </h2>
+      <div
+        className="tdd-Card--topButtonWrapper"
+      />
+    </div>
+    <div>
+      <hr
+        className="tdd-Card--horizontalLine"
+      />
+      <div
+        className="tdd-MuiGrid-container tdd-MuiGrid-spacing-xs-16"
+      >
+        <div
+          className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-3 tdd-Component--col"
+        >
+          <div
+            className="tdd-CardSection--container"
+          >
+            <div
+              className="tdd-CardSection--title"
+            >
+              <span
+                className="tdd-Text--body tdd-CardSectionTitle--text"
+              >
+                This is 1
+              </span>
+            </div>
+            <span
+              className="tdd-Text--body tdd-CardSectionValue--text"
+            >
+              8,152,508
+            </span>
+          </div>
+        </div>
+        <div
+          className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-3 tdd-Component--col"
+        >
+          <div
+            className="tdd-CardSection--container"
+          >
+            <div
+              className="tdd-CardSection--title"
+            >
+              <span
+                className="tdd-Text--body tdd-CardSectionTitle--text"
+              >
+                This is 2
+              </span>
+            </div>
+            <span
+              className="tdd-Text--body tdd-CardSectionValue--text"
+            >
+              252,228
+            </span>
+          </div>
+        </div>
+        <div
+          className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-3 tdd-Component--col"
+        >
+          <div
+            className="tdd-CardSection--container"
+          >
+            <div
+              className="tdd-CardSection--title"
+            >
+              <span
+                className="tdd-Text--body tdd-CardSectionTitle--text"
+              >
+                This is 3
+              </span>
+            </div>
+            <span
+              className="tdd-Text--body tdd-CardSectionValue--text"
+            >
+              563,123
+            </span>
+          </div>
+        </div>
+        <div
+          className="tdd-MuiGrid-item tdd-MuiGrid-grid-xs-12 tdd-MuiGrid-grid-sm-3 tdd-Component--col"
+        >
+          <div
+            className="tdd-CardSection--container"
+          >
+            <div
+              className="tdd-CardSection--title"
+            >
+              <span
+                className="tdd-Text--body tdd-CardSectionTitle--text"
+              >
+                This is 4
+              </span>
+            </div>
+            <span
+              className="tdd-Text--body tdd-CardSectionValue--text"
+            >
+              993,123
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
